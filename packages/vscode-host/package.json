@@ -19,7 +19,7 @@
     "copy-and-serve": "yarn build:copy-extensions && yarn serve"
   },
   "devDependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fs-extra": "^10.0.0",
     "glob": "^7.1.6",
     "rimraf": "^3.0.2",
